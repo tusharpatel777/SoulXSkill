@@ -1,0 +1,7 @@
+{
+  "name": "Soul & Skills - AI Voice Companion",
+  "description": "A dual-mode real-time voice application powered by Gemini Live API. Switch between a caring AI companion and a rigorous SDE interviewer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
